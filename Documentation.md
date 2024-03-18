@@ -9,7 +9,7 @@ local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/blood
 
 
 
-## Creating a Kavo UI Window
+## Creating a Wizard UI Window
 ```lua
 local PhantomForcesWindow = Library:NewWindow("Combat")
 ```
